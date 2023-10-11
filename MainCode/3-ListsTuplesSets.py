@@ -1,4 +1,4 @@
-"This code is all about Lists, Tuples, and Sets"
+"This code is all about Lists[], Tuples(), and Sets{}"
 
 COURSES = ['History', 'Math', 'Physics', 'CompSci']
 print(COURSES)
