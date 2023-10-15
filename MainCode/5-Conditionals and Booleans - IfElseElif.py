@@ -1,4 +1,4 @@
-"This code is all about Conditionals and Booleans, If, Else and Elif Statements"
+"""This code is all about Conditionals and Booleans, If, Else and Elif Statements"""
 
 # Comparison
 # Equql:                ==
